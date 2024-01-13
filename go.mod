@@ -1,4 +1,4 @@
-module github.com/bdwalton/inhibit-bridge
+module github.com/coltwillcox/inhibitor
 
 go 1.19
 
